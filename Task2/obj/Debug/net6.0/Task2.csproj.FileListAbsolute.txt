@@ -1,0 +1,15 @@
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\bin\Debug\net6.0\Task2.exe
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\bin\Debug\net6.0\Task2.deps.json
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\bin\Debug\net6.0\Task2.dll
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\bin\Debug\net6.0\Task2.pdb
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\obj\Debug\net6.0\Task2.dll
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\obj\Debug\net6.0\refint\Task2.dll
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\obj\Debug\net6.0\Task2.pdb
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+F:\Git\13.01.23\HomeTasks\HomeTasks\Task2\obj\Debug\net6.0\ref\Task2.dll
